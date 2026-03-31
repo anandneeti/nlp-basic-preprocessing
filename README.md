@@ -52,4 +52,4 @@ Tokenized Output:
    python "text preprocessing.py"
 4. Enter 'yes' to input your own text
    OR
-   Enter 'no' ti use sample text
+   Enter 'no' to use sample text
