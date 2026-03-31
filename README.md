@@ -42,13 +42,13 @@ Tokenized Output:
 5. Understood the use of maketrans() and translate() in Python
 
 ## How to set up and run
-1. Install dependencies
+1. Install dependencies:
    pip install nltk
-2. Download required datasets
-   import nltk
-   nltk.download('punkt')
-   nltk.download('stopwords')
-3. Run the script
+2. Download required datasets:
+   1. import nltk
+   2. nltk.download('punkt')
+   3. nltk.download('stopwords')
+3. Run the script:
    python "text preprocessing.py"
 4. Enter 'yes' to input your own text
    OR
